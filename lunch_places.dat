@@ -61,11 +61,11 @@
         "description": "Build your own pizza, salads and pastas",
         "recommendations": "BBQ chicken on New York Style"
     },
-    "Tavern 333": {
-        "skyway_access": "Y",
+    "Barrio": {
+        "skyway_access": "N",
         "quick": "N",
-        "location": "SPS Tower",
-        "description": "Decent food, OK happy hour",
-        "recommendations": "Cheese burger...it's ok"
+        "location": "Nicollet Mall",
+        "description": "Modern Latin American tapas & tacos",
+        "recommendations": "Guacamole, sopes and tamales... deliciosos!"
     }
 }
